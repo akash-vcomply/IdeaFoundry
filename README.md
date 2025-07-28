@@ -60,7 +60,7 @@ We welcome collaborators, researchers, and curious minds!
 3. Follow the guidelines in [`CONTRIBUTING.md`](./contributing.md)
 4. Submit a Pull Request
 
-You can also propose an idea or request feedback via [Discussions](https://github.com/your-username/IdeaFoundry/discussions)
+You can also propose an idea or request feedback via [Discussions](https://github.com/akash-vcomply/IdeaFoundry/discussions)
 
 ---
 
