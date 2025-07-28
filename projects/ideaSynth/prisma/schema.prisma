@@ -1,0 +1,8 @@
+// Prisma DB schema for ideas
+model Idea {
+  id        Int      @id @default(autoincrement())
+  title     String
+  summary   String
+  tags      String[]
+  createdAt DateTime @default(now())
+}
